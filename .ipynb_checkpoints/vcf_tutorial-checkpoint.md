@@ -85,7 +85,11 @@ Once IGV is downloaded, you can move it to wherever you like (e.g. if you use a 
 ![image of dgrp2 download page](vcf_tutorial_images/7_IGV_viewing_2L_edited.png)
 
 
+9. When you zoom-in far enough, IGV will display the variants present in each of the DGRP lines. The red arrow in the image below points at a single variant. Genes, along with their exons and introns, are shown in the bottom panel (red box in the image below). To scroll left and right along the chromosome, swipe with your mouse in the main panel of the window (_i.e._, the panel displaying the variants). 
 
-9. When you zoom in far enough, IGV will display the variants present in each of the DGRP lines. 
+![image of dgrp2 download page](vcf_tutorial_images/8_IGV_viewing_variants_edited.png)
 
-![image of dgrp2 download page](vcf_tutorial_images/8_IGV_viewing_variants.png)
+
+10.  After zooming-in even further, IGV will display the nucleotide sequence of the _D. melanogaster_ genome in the bottom panel (red box in the image below). If you are zoomed-in on the coding-region of a gene, the amino acid sequence of that gene will also be shown.
+
+![image of dgrp2 download page](vcf_tutorial_images/9_IGV_reference_sequence_edited.png)
