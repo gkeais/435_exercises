@@ -72,8 +72,20 @@ Once IGV is downloaded, you can move it to wherever you like (e.g. if you use a 
 
 <img src="vcf_tutorial_images/4_IGV_index_pop_up.png" alt="drawing" width="250"/>
 
-6. Once the index file is load
+6. Once the index file is created, you will see each of the 205 DGRP lines on the far left side of the window (red box in the image below). You can scroll through these using the scroll bar on the far right side of the window (red arrow in the image below). To explore genetic variation present in these lines, click on 
 
-![image of dgrp2 download page](vcf_tutorial_images/5_IGV_dgrp2_loaded_in.png)
+![image of dgrp2 download page](vcf_tutorial_images/5_IGV_dgrp2_loaded_in_edited.png)
 
-![image of dgrp2 download page](vcf_tutorial_images/6_IGV_viewing_2L.png)
+7. To explore genetic variation present in these lines, click on one of the chromosomes displayed the top section of the window (red box in the image below). Alternatively, you can jump to a specified gene or chromosome region using the text box in the toolbar (red arrow in the image below).
+
+![image of dgrp2 download page](vcf_tutorial_images/6_IGV_dgrp2_explore.png)
+
+8. Shown below is the view after having clicked on chromosome 2L. You can zoom in and out using the toggle in the top right corner of the window (red box in the image below). Alternatively, you can zoom-in on a section of the chromosome by dragging your mouse along the desired chromosome section (red arrow in the image below). 
+
+![image of dgrp2 download page](vcf_tutorial_images/7_IGV_viewing_2L_edited.png)
+
+
+
+9. When you zoom in far enough, IGV will display the variants present in each of the DGRP lines. 
+
+![image of dgrp2 download page](vcf_tutorial_images/8_IGV_viewing_variants.png)
