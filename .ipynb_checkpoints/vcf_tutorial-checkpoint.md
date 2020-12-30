@@ -3,8 +3,7 @@
 
 #### 1. Navigate to the DGRP website and download the dgrp2 VCF file
 
-Follow this link to the data page of the DGRP website: http://dgrp2.gnets.ncsu.edu/data.html
-
+Follow this link to the data page of the DGRP website: <a href="http://dgrp2.gnets.ncsu.edu/data.html" target="_blank">http://dgrp2.gnets.ncsu.edu/data.html</a>
 
 At the top of the page you will see the following links:
 
@@ -27,7 +26,9 @@ Navigate to your Home folder and make a new folder called "dgrp_vcf". Move dgrp2
 
 Integrative Genomics Viewer (IGV) is a free desktop application for exploring next-generation sequencing data, including VCF files.
 
-Follow this [link](https://software.broadinstitute.org/software/igv/download) to the IGV downloads page, where you will see the following: 
+Follow this link to the IGV downloads page: <a href="https://software.broadinstitute.org/software/igv/download" target="_blank">https://software.broadinstitute.org/software/igv/download</a>
+
+There you will see the following download options: 
 
 <img src="vcf_tutorial_images/IGV_download_screenshot.png" alt="drawing" width="300"/>
 
