@@ -8,7 +8,7 @@ Follow this link to the data page of the DGRP website: http://dgrp2.gnets.ncsu.e
 
 At the top of the page you will see the following links:
 
-![image of dgrp2 download page](vcf_tutorial_pics/vcf_download_link.png)
+![image of dgrp2 download page](vcf_tutorial_images/vcf_download_link.png)
 
 Click on the first link to download the VCF file. The download will start automatically. The file (called dgrp2.vcf) is 3.7 GB so it may take a few minutes for the download to complete. 
 
@@ -27,7 +27,7 @@ Integrative Genomics Viewer (IGV) is a free desktop application for exploring ne
 
 Follow this [link](https://software.broadinstitute.org/software/igv/download) to the IGV downloads page, where you will see the following: 
 
-<img src="igv_tutorial_pics/IGV_download_screenshot.png" alt="drawing" width="300"/>
+<img src="vcf_tutorial_images/IGV_download_screenshot.png" alt="drawing" width="300"/>
 
 
 If you use a MacOS machine, click on: **IGV MacOS App (Java included)**
@@ -49,15 +49,15 @@ Once IGV is downloaded, you can move it to wherever you like (e.g. if you use a 
 
 2. The human genome is set as the default genome upon opening, so we need to set the genome to the _Drosophila melanogaster_ genome. To do this click on the drop-down menu in the top left hand corner, and select "More..."
 
-![image of dgrp2 download page](igv_tutorial_pics/1_IGV_first_open_edited.png)
+![image of dgrp2 download page](vcf_tutorial_images/1_IGV_first_open_edited.png)
 
 3. You should see a pop-up that looks like the one below. Scroll down and select "D. melanogaster (dm3)" and press OK. 
 
-<img src="igv_tutorial_pics/2_IGV_genomes_pop_up.png" alt="drawing" width="250"/>
+<img src="vcf_tutorial_images/2_IGV_genomes_pop_up.png" alt="drawing" width="250"/>
 
 4. Your IGV window should now look like the image below.
 
-![image of dgrp2 download page](igv_tutorial_pics/3_IGV_dm3.png)
+![image of dgrp2 download page](vcf_tutorial_images/3_IGV_dm3.png)
 
 5. Now we are ready to load our VCF file. 
 
@@ -68,10 +68,10 @@ Once IGV is downloaded, you can move it to wherever you like (e.g. if you use a 
 - You will see a pop-up that looks like the one below. Press "Go". This will make a file called `dgrp2.vcf.idx` in the dgrp_vcf folder. IGV requires this file to load the VCF, and it might take a few minutes for it to be made.
 
 
-<img src="igv_tutorial_pics/4_IGV_index_pop_up.png" alt="drawing" width="250"/>
+<img src="vcf_tutorial_images/4_IGV_index_pop_up.png" alt="drawing" width="250"/>
 
 6. Once the index file is load
 
-![image of dgrp2 download page](igv_tutorial_pics/5_IGV_dgrp2_loaded_in.png)
+![image of dgrp2 download page](vcf_tutorial_images/5_IGV_dgrp2_loaded_in.png)
 
-![image of dgrp2 download page](igv_tutorial_pics/6_IGV_viewing_2L.png)
+![image of dgrp2 download page](vcf_tutorial_images/6_IGV_viewing_2L.png)
