@@ -73,11 +73,11 @@ Once IGV is downloaded, you can move it to wherever you like (e.g. if you use a 
 
 <img src="vcf_tutorial_images/4_IGV_index_pop_up.png" alt="drawing" width="250"/>
 
-6. Once IGV has finished making `dgrp2.vcf.idx`, you will see each of the 205 DGRP lines on the far left side of the window (red box in the image below). You can scroll through these using the scroll bar on the far right side of the window (red arrow in the image below). To explore genetic variation on a given chromosome , click on any of the chromosomes in the top panel (blue box in the image below), or use the drop-down menu (blue arrow in the image below).
+6. Once IGV has finished making `dgrp2.vcf.idx`, you will see each of the 205 DGRP lines on the far left side of the window (red box in the image below). You can scroll through these using the scroll bar on the far right side of the window (red arrow in the image below). 
 
-![image of dgrp2 download page](vcf_tutorial_images/5_IGV_dgrp2_loaded_in_edited.png)
+![image of dgrp2 download page](vcf_tutorial_images/5_IGV_dgrp_loaded_in_edited.png)
 
-7. To explore genetic variation present in these lines, click on one of the chromosomes displayed the top section of the window (red box in the image below). Alternatively, you can jump to a specified gene or chromosome region using the text box in the toolbar (red arrow in the image below).
+7. To explore genetic variation on a given chromosome , click on any of the chromosomes in the top panel (red box in the image below), or use the drop-down menu (blue box in the image below). Alternatively, you can jump to a specified gene or chromosome region using the text box in the toolbar (red arrow in the image below).
 
 ![image of dgrp2 download page](vcf_tutorial_images/6_IGV_dgrp2_explore.png)
 
