@@ -8,7 +8,9 @@ Follow this link to the data page of the DGRP website: http://dgrp2.gnets.ncsu.e
 
 At the top of the page you will see the following links:
 
-![image of dgrp2 download page](vcf_tutorial_images/vcf_download_link.png)
+
+<img src="vcf_tutorial_images/vcf_download_link.png" alt="drawing" width="600"/>
+
 
 Click on the first link to download the VCF file. The download will start automatically. The file (called dgrp2.vcf) is 3.7 GB so it may take a few minutes for the download to complete. 
 
