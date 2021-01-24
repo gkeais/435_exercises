@@ -11,11 +11,11 @@ At the top of the page you will see the following links:
 <img src="vcf_tutorial_images/vcf_download_link.png" alt="drawing" width="600"/>
 
 
-Click on the first link to download the VCF file. The download will start automatically. The file (called dgrp2.vcf) is 3.7 GB so it may take a few minutes for the download to complete. 
+Click on the first link to download the VCF file. The download will start automatically. The file (called dgrp2.vcf) is 3.7 GB so it may take several minutes for the download to complete. 
 
 #### 2. Make a project folder
 
-Navigate to your Home folder and make a new folder called "dgrp_vcf". Move dgrp2.vcf from your downloads folder into the dgrp_vcf folder. 
+In your desired location, make a new folder called "dgrp_vcf". Move dgrp2.vcf from your downloads folder into the dgrp_vcf folder. 
 
 
 <br/>
@@ -39,11 +39,6 @@ If you use a Windows machine, click on: **IGV for Windows (Java included)**
 
 <br/>
 
-Once IGV is downloaded, you can move it to wherever you like (e.g. if you use a Mac, you can move it to the Applications folder).
-
-
-<br/>
-
 ---
 
 ## Using IGV to view VCFs
@@ -52,7 +47,9 @@ Once IGV is downloaded, you can move it to wherever you like (e.g. if you use a 
 
 2. The human genome is set as the default genome upon opening, so we need to set the genome to the _Drosophila melanogaster_ genome. To do this click on the drop-down menu in the top left hand corner, and select "More..."
 
-![image of dgrp2 download page](vcf_tutorial_images/1_IGV_first_open_edited.png)
+<![image of dgrp2 download page](vcf_tutorial_images/1_IGV_first_open_edited.png)
+
+<img src="vcf_tutorial_images/1_IGV_first_open_edited.png" alt="drawing" width="525"/>
 
 3. You should see a pop-up that looks like the one below. Scroll down and select "D. melanogaster (dm3)" and press OK. 
 
@@ -73,7 +70,7 @@ Once IGV is downloaded, you can move it to wherever you like (e.g. if you use a 
 
 <img src="vcf_tutorial_images/4_IGV_index_pop_up.png" alt="drawing" width="250"/>
 
-6. Once IGV has finished making `dgrp2.vcf.idx`, you will see each of the 205 DGRP lines on the far left side of the window (red box in the image below). You can scroll through these using the scroll bar on the far right side of the window (red arrow in the image below). 
+6. Once IGV has finished making `dgrp2.vcf.idx`, reload the VCF (same as the first two bullet-points from step 5). You will then see each of the 205 DGRP lines on the far left side of the window (red box in the image below). You can scroll through these using the scroll bar on the far right side of the window (red arrow in the image below). 
 
 ![image of dgrp2 download page](vcf_tutorial_images/5_IGV_dgrp_loaded_in_edited.png)
 
@@ -94,3 +91,6 @@ Once IGV is downloaded, you can move it to wherever you like (e.g. if you use a 
 10.  After zooming-in even further, IGV will display the nucleotide sequence of the _D. melanogaster_ genome in the bottom panel (red box in the image below). If you are zoomed-in on the coding-region of a gene, the amino acid sequence of that gene will also be shown.
 
 ![image of dgrp2 download page](vcf_tutorial_images/9_IGV_reference_sequence_edited.png)
+
+
+
