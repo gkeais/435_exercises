@@ -41,7 +41,7 @@ Below is a worked example of how to explore gene regions in IGV using the 60S ri
 
 - After expanding the gene panel, you will see all the possible gene versions, with the primary version at the top. In the case of RpL36, there are 5 possible versions of the gene (see below).
 
-- The gene models include 5'UTRs, exons, introns, and 3'UTRs. These are indicated in the image below for RpL36.
+- The gene models include the 5'UTR, exons, introns, and the 3'UTR. These are indicated in the image below for RpL36.
 
 <br/>
 
@@ -86,7 +86,7 @@ Below is a worked example of how to explore gene regions in IGV using the 60S ri
 # Exploring genetic variation exercise
 
 In IGV, navigate to the following two genes:
-1. RpL12
+1. RpL12 (60S ribosomal protein L12)
 2. DptA (Diptericin A)
 
 
@@ -96,12 +96,9 @@ Which part of the RpL12 gene (3'UTR, exons, introns, 5'UTR) has the most variant
 
 List the number of variants for each part of the DptA gene.
 
-What is the reference allele of the first SNP in exon 1 of DptA.
+What is the reference allele of the first SNP in exon 1 of DptA?
 
-
-
-Read about the function and full name of each of these genes? (search for genes on http://flybase.org/). 
-
+ 
 
 
 
