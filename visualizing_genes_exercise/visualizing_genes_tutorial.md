@@ -1,4 +1,8 @@
-## Visualizing Genetic Variation in _Drosophila_ Genes
+## BIOL 435 - Molecular Evolution
+
+<br/>
+
+# Visualizing Genetic Variation in _Drosophila_ Genes
 
 Below is a worked example of how to explore gene regions in IGV using the 60S ribosomal protein L36 (RpL36) as an example. It is designed for you to follow along in IGV. An exercise on visualizing genetic variation in two additional _Drosophila_ genes can be found at the end of the PDF.
 
@@ -85,18 +89,29 @@ Below is a worked example of how to explore gene regions in IGV using the 60S ri
 
 # Exploring genetic variation exercise
 
+Create a short file that you will upload onto Brightspace with the answers to the following questions. Be sure to include your name. 
+
 In IGV, navigate to the following two genes:
 1. RpL12 (60S ribosomal protein L12)
 2. DptA (Diptericin A)
 
+What do these genes do? (do a quick search online to answer this question)
+
+How many exons does RpL12 have?
 
 How many variants in total are found in the exons of RpL12?
 
+Please take a small screenshot of variation in RpL12, and include this in your file.
+
 Which part of the RpL12 gene (3'UTR, exons, introns, 5'UTR) has the most variants?
+
+How many exons does DptA have?
 
 List the number of variants for each part of the DptA gene.
 
 What is the reference allele of the first SNP in exon 1 of DptA?
+
+Does RpL12 or DptA harbour more polymorphism in coding sequence (i.e. exons)? Can you propose a hypothesis for why this might be?
 
  
 
