@@ -184,7 +184,7 @@ AliView is a free alignment viewer and editor.
 
 # Exercise questions
 
-You will need to take a look at the following paper to answer some of the follwing questions: Watnick et al. (2003) [`https://doi.org/10.1016/j.cub.2003.12.002`].
+You will need to take a look at the following paper to answer some of the following questions: Watnick et al. (2003) [`https://doi.org/10.1016/j.cub.2003.12.002`].
 
 1. What is the function of the `Pdk2` gene in Drosophila flies? What happens to flies when this gene is mutated? 
 
