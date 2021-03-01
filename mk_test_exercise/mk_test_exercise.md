@@ -87,7 +87,7 @@ On the homepage you will find four text boxes, as shown below. The two boxes on 
 
 ### 6. Save the results
 
-- To save the results, copy-paste the results table into a word document along with the chi-squared test statistic and the corresponding p-value.
+- To save the results, copy-paste the results table into a word document along with the chi-squared test statistic and the corresponding p-value (these are printed at the very bottom of the results page).
 
 
 <br/>
@@ -100,7 +100,7 @@ On the homepage you will find four text boxes, as shown below. The two boxes on 
 
 <br/>
 
-
+---
 
 # MK test exercise: Part 2 (amino acid alignments)
 
@@ -170,7 +170,7 @@ AliView is a free alignment viewer and editor.
 
 - Open a new AliView window: `File > New`
 
-- In this new blank window, repeat steps 1-5 using the sequences in `Pkd2_dmel_dgrp.txt` and `Pkd2_dsim.txt`.
+- In this new blank window, repeat steps 1-5 of part 2 using the sequences in `Pkd2_dmel_dgrp.txt` and `Pkd2_dsim.txt`.
 
 - **once you have repeated steps 1-5 using `Pkd2` sequences, you will need this window open to answer question 7 of the exercise**
 
@@ -184,21 +184,21 @@ AliView is a free alignment viewer and editor.
 
 # Exercise questions
 
-You will need to take a look at the following paper to answer some of the following questions: Watnick et al. (2003) [`https://doi.org/10.1016/j.cub.2003.12.002`].
+You will need to take a look at the following paper to answer some of the exercise questions: Watnick et al. (2003) [`https://doi.org/10.1016/j.cub.2003.12.002`].
 
 1. What is the function of the `Pdk2` gene in Drosophila flies? What happens to flies when this gene is mutated? 
 
-2. `Pdk2` is also called "`amo`". What is "`amo`" short for? Why is it called this?
+2. `Pdk2` is also called "`amo`". What is `amo` short for? Why is it called this?
 
 3. What does a statistically significant MK test for `Pdk2/amo` mean? How would you interpret this? 
 
 4. Which of the categories (P<sub>S</sub> , P<sub>N</sub>, D<sub>S</sub>, D<sub>N</sub>) drives the significant test result? 
 
-5. Based on what you know about `Pdk2/amo`'s role, can you speculate why it's got a significant MK test i.e. what's going on?
+5. Based on what you know about the role of `Pdk2/amo`, speculate on why this gene has a significant MK test.
 
-7. In the RpL36 amino acid alignment, there is a single amino acid polymorphism in D. melanogaster. What is the amino-acid change, and what DGRP line carries it? Provide a screenshot of this amino acid change.
+6. In the `RpL36` amino acid alignment, there is a single amino acid polymorphism in _D. melanogaster_. What is the amino-acid change, and what DGRP line carries it? Provide a screenshot of this amino acid change.
 
-6. In the Pkd2 amino acid alignment, what is the first amino acid polymorphism in D. melanogaster? Provide a screenshot of this amino acid change. 
+7. In the `Pkd2` amino acid alignment, what is the first amino acid polymorphism in _D. melanogaster_? Provide a screenshot of this amino acid change. 
 
 
 
