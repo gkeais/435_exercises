@@ -142,6 +142,8 @@ AliView is a free alignment viewer and editor.
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
 
 ### 3. Translate nucleotide sequences to amino acid sequences
 
