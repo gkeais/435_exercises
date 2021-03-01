@@ -219,5 +219,5 @@ You will need to take a look at the following paper to answer some of the follow
 
 <br/>
 
-><span style="color:slateblue">**QUESTION 10.**</span> **Based on what you know about the role of `Pdk2/amo`, speculate on why this gene has a significant MK test.**
+<span style="color:slateblue">**QUESTION 10.**</span> **Based on what you know about the role of `Pdk2/amo`, speculate on why this gene has a significant MK test.**
 
